@@ -19,5 +19,9 @@ Move individual TTF files into `fonts`
 tar -czvf fonts.tar.gz fonts
 ```
 
+### Included Font Languages
+
+Devnagri, Japanese, Bengali, Malayalam, Gujrati, Chinese
+
 ### Original Inspiration
 * https://github.com/debitoor/heroku-buildpack-converter-fonts
